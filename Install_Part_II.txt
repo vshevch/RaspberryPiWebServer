@@ -16,3 +16,6 @@ You'll need to set up DDNS. Two major providers:
 * DynDNS - available on more devices, paid
 * No-IP - free, chose to use this DDNS
 Once you signed up, enter your information into DDNS section of your router
+
+## Creating User ##
+sudo useradd -m <user>
